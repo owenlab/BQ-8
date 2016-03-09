@@ -4,7 +4,7 @@ An opensource RC ball
 
 ## BOM
 - 2 Geared motor DG02S [like this](http://www.robotshop.com/en/dagu-gear-motor-pair-offset-shaft.html)
-- 1 [Omniboard](https://github.com/bqlabs/OmniBoard/tree/develop)
+- 1 [Omniboard](https://github.com/bqlabs/OmniBoard)
 - 1 LiPo battery pack 2cells 460mAh
 - 3D printed parts
 
