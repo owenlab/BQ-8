@@ -1,27 +1,32 @@
-@@ -0,0 +1,39 @@
-# BQ-8
-An opensource RC ball
+<table>
+<tr>
+<td>
+<img src="images/bq-logo-human-right-technology.png" width="400" align="center">
+</td>
+</tr>
+</table>
+
+<img src="images/BQ-8logo.png" width="250" align="center">
+
+# BQ-8 
+
+Robot inspired on Sphero
+
+<img src="images/BB-8v05.png" width="650" align="center">
 
 ## BOM
 - 2 Geared motor DG02S [like this](http://www.robotshop.com/en/dagu-gear-motor-pair-offset-shaft.html)
-- 1 [Omniboard](https://github.com/bqlabs/OmniBoard)
-- 1 LiPo battery pack 2cells 460mAh
+- [OmniBoard](https://github.com/bqlabs/OmniBoard) or ESP motor board
+- 1 one cell Battery
 - 3D printed parts
+- [AirPad](https://github.com/bqlabs/AirPad) app for Android
 
-## HowToPrint
-**Sphere2.stl** need to be splitted in 3 parts, it will be easy in cura by right click on the object.
-In according with your print bed dimension, print one or all parts a time
+## Files
+At the moment Version v05 work well
 
-**MOTOR MOUNT.stl** needs to be printed with support
+Load **BQ-8_Sphere_v05.stl** in Cura and split into objects, then print with 2mm perimeters and Touching Buildplate supports
 
-**Flex.stl** and **flex2.stl** needs to be printed in flexible filament
 
-All the parts are printed with this settings:
-
-- INFILL: 20%
-- SHELL: 3
-- LAYER: 0.2
-- SUPPORT: if needed
 
 ## Contributing
 1. Fork it!
@@ -29,13 +34,20 @@ All the parts are printed with this settings:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## History
-TODO: Write history
+
+
 ## Credits
-TODO: Write credits
+
+[Alvaro Ferrán](https://github.com/alvaroferran) for the OmniBoard
+
+Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) for [BQ](https://www.bq.com)
+
+
+
+
 ## License
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
-\ No newline at end of file
+<img src="images/by-sa.png" width="200" align = "center">
+
+This robot is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Please read the LICENSE files for more details.
+
+Este robot tiene una licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Por favor, lea los ficheros LICENSE para más detalles
