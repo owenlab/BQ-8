@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<img src="images/bq-logo-human-right-technology.png" width="400" align="center">
+
 </td>
 </tr>
 </table>
@@ -40,8 +40,10 @@ Load **BQ-8_Sphere_v05.stl** in Cura and split into objects, then print with 2mm
 
 [Alvaro Ferrán](https://github.com/alvaroferran) for the OmniBoard
 
-Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) for [BQ](https://www.bq.com)
+Designed by Gianluca Pugliese [Owensource](https://www.owensource.com) 
 
+
+Sponsored by BQ untill March 2016
 
 
 
